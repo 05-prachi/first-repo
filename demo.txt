@@ -1,0 +1,4 @@
+Hi This is Prachi.
+I am learning Python.
+I will be doing my Bachelor's degree in CSE, 
+when I start my college in a month.
